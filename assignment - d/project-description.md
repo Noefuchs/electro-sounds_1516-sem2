@@ -1,0 +1,13 @@
+#Assignment D
+### A short synopsis
+
+
+- Interference was conceptialised in later stages while experimenting with some example codes found on the internet, specifically Alexander Miller's reverse engineering of the work by a computer animator from the 60s - John Whitney Sr.
+
+- I was really intrigued by the the various patterns that were made simply by overlapping different shapes and moving them repeatedly in a sinusoidal manner. So i wanted to have some of that simulated in my final project. I also realized that my final sketch also bore some reference to lissajou patterns.The final imagery might appear busy or hectic, but the patterns are made possible largely duet to the speed and repetition of the parameters.
+
+￼![screenshots from *interference*](https://41.media.tumblr.com/f139fc1d638918e5496ec23271776c7f/tumblr_o5x7jxxmED1ud66cxo3_540.png )
+
+￼![screenshots from *interference*](https://36.media.tumblr.com/a5f4ba60bd3163807a30a63fc7812d2f/tumblr_o5x7jxxmED1ud66cxo2_1280.png )
+
+ - screenshots from **interference**
